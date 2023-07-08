@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [Check out my CV](https://anfisou.github.io/en/)
 
 <!--
